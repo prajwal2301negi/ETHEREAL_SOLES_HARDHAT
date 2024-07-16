@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\prajwal\\OneDrive\\Desktop\\BC_practise\\SneakersBC\\h\\contracts\\shoe.sol": {
+      "lastModificationDate": 1719655282994,
+      "contentHash": "bf0dea11f4adc0bca0b5e57e4f2d2818",
+      "sourceName": "contracts/shoe.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "shoe"
+      ]
+    }
+  }
+}
